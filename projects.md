@@ -1,26 +1,18 @@
-# Projects
+My Projects
 
-Add clear, honest descriptions of academic and personal projects.
+Project 1: Student Performance Prediction System
 
-## Project 1: Student Attendance Tracker
-- **Problem:** Keeping attendance records organised can take time.
-- **Solution:** A small application concept for entering attendance and producing a summary.
-- **Technologies:** Java, CSV files
-- **My contribution:** Implemented the input flow and summary logic.
-- **Possible improvement:** Add data validation and export reports.
+- Problem: Students may find it difficult to identify their academic performance and weak subjects.
+- Solution: Developed a web application to display student's marks, calculate average marks, assign grades, and identify weak subjects.
+- Technologies Used: Python, Flask, SQL, HTML, CSS, JavaScript.
+- My Contribution: Designed the frontend, developed Flask routes, stored student details and marks using SQL, and implemented performance  analysis.
+- Future Improvement: Add graphical performance reports and more advanced prediction features.
 
-## Project 2: Personal Portfolio Website
-- **Problem:** Students need a simple way to present their skills and work.
-- **Solution:** A responsive webpage with sections for about, skills, projects, and contact details.
-- **Technologies:** HTML, CSS, Git
-- **My contribution:** Created the page structure and styling.
-- **Possible improvement:** Add a project filter and improve accessibility.
 
-## Project template
-### Project Name
-- **Problem:**
-- **Solution:**
-- **Technologies:**
-- **My contribution:**
-- **What I learned:**
-- **Future improvement:**
+Project 2: Travel Website 
+
+- Problem: Users need a simple website to explore travel destinations and find travel-related information.
+- Solution: Created a website to present travel destinations and related information in an organized format.
+- Technologies Used: HTML, CSS, JavaScript.
+- My Contribution: Designed the web pages, structured the content, and styled the website for a user-friendly experience.
+- Future Improvement: Add booking features, interactive maps, and destination search.
