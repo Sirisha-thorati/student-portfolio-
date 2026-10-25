@@ -1,23 +1,24 @@
 # Technical Skills
 
-Replace these examples with skills you can confidently discuss in an interview.
-
 ## Programming Languages
-- Java — Beginner / Intermediate
-- Python — Beginner / Intermediate
-- C — Beginner
+- Java — Beginner
+- Python — Intermediate
+- C — Intermediate
 
 ## Web Technologies
 - HTML
 - CSS
-- JavaScript (currently learning)
+- JavaScript 
 
 ## Developer Tools
 - Git
 - GitHub
 - Visual Studio Code
+- Postman
 
 ## Skills to Improve
 - Data Structures and Algorithms
 - SQL and database fundamentals
 - Testing and debugging
+- Some python libraries i.e; Pandas, Scikit-learn 
+- Django Frame work
